@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import ButtonPuc from "./ButtonPuc";
+import ButtonPuc from "./ButtonPuc.jsx";
 import puc from "./puc.jpeg";
 import heart from "./heart.png";
 import "./App.scss";

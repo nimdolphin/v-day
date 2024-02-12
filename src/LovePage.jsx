@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import lovecats from "./lovecats.jpeg";
-import ButtonPuc from "./ButtonPuc";
+import ButtonPuc from "./ButtonPuc.jsx";
 import "./App.scss";
 
 const LovePage = () => {
