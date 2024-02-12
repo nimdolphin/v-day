@@ -2,7 +2,7 @@
   "name": "love-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nimdolphin.github.io/v-day",
+  "homepage": "https://nimdolphin.github.io/v-day",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
